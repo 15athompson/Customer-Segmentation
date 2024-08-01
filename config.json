@@ -1,0 +1,7 @@
+{
+    "data_file": "data/customer_data.csv",
+    "output_file": "output/clustered_customers.csv",
+    "max_clusters": 10,
+    "dbscan_eps": 0.5,
+    "dbscan_min_samples": 5
+}

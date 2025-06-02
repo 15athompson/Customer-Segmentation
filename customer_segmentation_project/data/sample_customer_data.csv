@@ -1,0 +1,6 @@
+customer_id,purchase_frequency,total_spend,avg_order_value,customer_lifetime
+1,5,500,100,365
+2,10,1000,100,730
+3,2,1000,500,180
+4,20,2000,100,1095
+5,1,1000,1000,30

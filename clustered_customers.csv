@@ -1,0 +1,101 @@
+CustomerID,Age,Annual Income (k$),Spending Score (1-100),Cluster,Segment
+1,19,15,39,3,Conservative
+2,21,15,81,3,Conservative
+3,20,16,6,1,High Value
+4,23,16,77,3,Conservative
+5,31,17,40,1,High Value
+6,22,17,76,3,Conservative
+7,35,18,6,1,High Value
+8,23,18,94,3,Conservative
+9,64,19,3,1,High Value
+10,30,19,72,3,Conservative
+11,67,19,14,1,High Value
+12,35,19,99,3,Conservative
+13,58,20,15,1,High Value
+14,24,20,77,3,Conservative
+15,37,20,13,1,High Value
+16,22,20,79,3,Conservative
+17,35,21,35,1,High Value
+18,20,21,66,3,Conservative
+19,52,23,29,1,High Value
+20,35,23,98,3,Conservative
+21,35,24,35,1,High Value
+22,25,24,73,3,Conservative
+23,46,25,5,1,High Value
+24,31,25,73,3,Conservative
+25,54,28,14,1,High Value
+26,29,28,82,3,Conservative
+27,45,28,32,1,High Value
+28,35,28,61,3,Conservative
+29,40,29,31,1,High Value
+30,23,29,87,3,Conservative
+31,60,30,4,1,High Value
+32,21,30,73,3,Conservative
+33,53,33,4,1,High Value
+34,18,33,92,3,Conservative
+35,49,33,14,1,High Value
+36,21,33,81,3,Conservative
+37,42,34,17,1,High Value
+38,30,34,73,3,Conservative
+39,36,37,26,1,High Value
+40,20,37,75,3,Conservative
+41,65,38,35,2,Young Spenders
+42,24,38,92,3,Conservative
+43,48,39,36,2,Young Spenders
+44,31,39,61,0,Budget Conscious
+45,49,39,28,1,High Value
+46,24,39,65,0,Budget Conscious
+47,50,40,55,2,Young Spenders
+48,27,40,47,0,Budget Conscious
+49,29,40,42,0,Budget Conscious
+50,31,40,42,0,Budget Conscious
+51,49,42,52,2,Young Spenders
+52,33,42,60,0,Budget Conscious
+53,31,43,54,0,Budget Conscious
+54,59,43,60,2,Young Spenders
+55,50,43,45,2,Young Spenders
+56,47,43,41,2,Young Spenders
+57,51,44,50,2,Young Spenders
+58,69,44,46,2,Young Spenders
+59,27,46,51,0,Budget Conscious
+60,53,46,46,2,Young Spenders
+61,70,46,56,2,Young Spenders
+62,19,46,55,0,Budget Conscious
+63,67,47,52,2,Young Spenders
+64,54,47,59,2,Young Spenders
+65,63,48,51,2,Young Spenders
+66,18,48,59,0,Budget Conscious
+67,43,48,50,2,Young Spenders
+68,68,48,48,2,Young Spenders
+69,19,48,59,0,Budget Conscious
+70,32,48,47,0,Budget Conscious
+71,70,49,55,2,Young Spenders
+72,47,49,42,2,Young Spenders
+73,60,50,49,2,Young Spenders
+74,60,50,56,2,Young Spenders
+75,59,54,47,2,Young Spenders
+76,26,54,54,0,Budget Conscious
+77,45,54,53,2,Young Spenders
+78,40,54,48,0,Budget Conscious
+79,23,54,52,0,Budget Conscious
+80,49,54,42,2,Young Spenders
+81,57,54,51,2,Young Spenders
+82,38,54,55,0,Budget Conscious
+83,67,54,41,2,Young Spenders
+84,46,54,44,2,Young Spenders
+85,21,54,57,0,Budget Conscious
+86,48,54,46,2,Young Spenders
+87,55,57,58,2,Young Spenders
+88,22,57,55,0,Budget Conscious
+89,34,58,60,0,Budget Conscious
+90,50,58,46,2,Young Spenders
+91,68,59,55,2,Young Spenders
+92,18,59,41,0,Budget Conscious
+93,48,60,49,2,Young Spenders
+94,40,60,40,0,Budget Conscious
+95,32,60,42,0,Budget Conscious
+96,24,60,52,0,Budget Conscious
+97,47,60,47,2,Young Spenders
+98,27,60,50,0,Budget Conscious
+99,48,61,42,2,Young Spenders
+100,20,61,49,0,Budget Conscious

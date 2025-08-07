@@ -1,0 +1,37 @@
+PS C:\Users\aidan_1k98io6\OneDrive - University of Suffolk (1)\projects\Projects from my Github\Customer Segmentation\Customer-Segmentation> python simple_dashboard.py
+Starting Customer Segmentation Dashboard...
+Loading data from: customer_data.csv
+Loaded 100 customer records
+Clustering completed successfully!
+
+============================================================
+CUSTOMER SEGMENT ANALYSIS SUMMARY
+============================================================
+
+CONSERVATIVE SEGMENT:
+  Count: 22 customers (22.0%)
+  Average Age: 25.0 years
+  Average Income: $24.6k
+  Average Spending Score: 78.2/100
+
+HIGH VALUE SEGMENT:
+  Count: 20 customers (20.0%)
+  Average Age: 45.4 years
+  Average Income: $25.6k
+  Average Spending Score: 18.6/100
+
+YOUNG SPENDERS SEGMENT:
+  Count: 33 customers (33.0%)
+  Average Age: 55.5 years
+  Average Income: $49.6k
+  Average Spending Score: 48.6/100
+
+BUDGET CONSCIOUS SEGMENT:
+  Count: 25 customers (25.0%)
+  Average Age: 27.4 years
+  Average Income: $50.6k
+  Average Spending Score: 51.9/100
+Clustered data saved as: clustered_customers.csv
+Dashboard saved as: customer_segmentation_dashboard.png
+
+Displaying dashboard... Close the plot window to continue.

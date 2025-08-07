@@ -36,10 +36,16 @@ This will perform the following steps:
 
 You can adjust the number of clusters by modifying the `n_clusters` variable in the `main()` function of `customer_segmentation.py`.
 
+## Cluster Plots
+
+<img width="1817" height="874" alt="image" src="https://github.com/user-attachments/assets/3d0a2cc2-f88d-4638-b405-8166c969b5a6" />
+
+
 ## Contributing
 
 Feel free to fork this project and submit pull requests with improvements or open issues if you find any problems.
 
 ## License
+
 
 This project is open source and available under the MIT License.
